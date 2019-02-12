@@ -17,13 +17,21 @@ UI Projects for data visualization
 ----------------------------------
 
 -> Global health analysis 
+
 Code: https://github.com/harshi-M/GlobalHealthAnalysis
+
 Project website URL: https://harshi-m.github.io/GlobalHealthAnalysis/
+
 Demo video: https://youtu.be/l5bnm9kpkVU
 
 -> Gap Minder Inspired World Health Data
 
 -> Exploring the 2018 World Coup
+
+Natural Language processing 
+---------------------------
+
+-> Question answering system.
 
 Data Analysis
 -------------
